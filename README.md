@@ -9,5 +9,3 @@ MENTOR AND ME is a website for basic course recommendation website replicates UD
 This website is done with the intermediate stage of HTML and CSS and beginner JAVASCRIPT.
 
 There is a php file seperately for database codes and also basic javascript for the database insetion.
-
-🚫If you are working on the project please try linking the pages with the required path address.
